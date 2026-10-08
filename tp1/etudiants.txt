@@ -1,0 +1,5 @@
+Alice:12.0
+Bob:15.0
+Claire:9.5
+David:14.0
+Emma:16.0
